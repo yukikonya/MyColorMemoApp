@@ -1,0 +1,6 @@
+framework module Pods_MyColorMemoApp_MyColorMemoAppUITests {
+  umbrella header "Pods-MyColorMemoApp-MyColorMemoAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "0ac94f05c326db5f52409c199e01ee2a70d3aa2d0f61321161a7ec3b5b393d37"
+build_start_time: [1646484666, 871268033]
+build_end_time: [1646484668, 200251102]
+inputs:
+  "/Users/Yuki/MyApp/MyColorMemoApp/MyColorMemoApp/AppDelegate.swift": [1645186254, 720784902]
+  "/Users/Yuki/MyApp/MyColorMemoApp/MyColorMemoApp/HomeViewController.swift": [1646395243, 32356262]
+  "/Users/Yuki/MyApp/MyColorMemoApp/MyColorMemoApp/MemoDataModel.swift": [1645607170, 953247070]
+  "/Users/Yuki/MyApp/MyColorMemoApp/MyColorMemoApp/MemoDetailViewController.swift": [1645710148, 696090936]
+  "/Users/Yuki/MyApp/MyColorMemoApp/MyColorMemoApp/MyColorType.swift": [1646395243, 37576913]
+  "/Users/Yuki/MyApp/MyColorMemoApp/MyColorMemoApp/SceneDelegate.swift": [1645186254, 730811119]
