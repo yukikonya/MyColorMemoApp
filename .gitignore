@@ -3,3 +3,4 @@ sample.txt
 *.dSYM.zip
 !Pods/sample.txt
 .DS_Store
+DerivedData/
